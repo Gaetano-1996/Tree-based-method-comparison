@@ -3,9 +3,9 @@ from src.AutoEnsemble import AutoEnsemble
 from src.utils import *
 # Analisi dati Boston Housing ################################################################################################################################################
 
-def boston_analysis():
+def boston_analysis(path = "Boston.csv"):
     # lettura dei dati da csv
-    dati = read_data("Boston.csv")
+    dati = read_data(path)
     # analisi esplorativa dei dati
     auto_eda(dati,
             'medv',
