@@ -10,7 +10,8 @@ Before proceeding **be sure you have installed the necessary dependencies** runn
 The code is divided into:
 - **AutoTree.py**: containing the class created to manage decision trees and methods.
 - **AutoEnsemble.py**: containing the class created to manage decision tree ensemble and methods.
-- **prjFunc.py**: containing the support function used in the analysis.
+- **AutoLib.py**: containing the support function used in the analysis.
 - _BostonHousing.ipynb_: containing the notebook for the analysis.
-- _requirements.txt_: self explicative
+- _requirements.txt_: self explicative.
+- _Boston.csv_: data used for the comparison.
  
