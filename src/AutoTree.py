@@ -64,7 +64,7 @@ class AutoTree:
     ccp_alpha : non-negative float, default=0.0
         The complexity parameter used for Minimal Cost-Complexity Pruning. The greater the value of ccp_alpha,
         the more nodes are pruned. If set to 0, no pruning is performed.
-"""
+""" 
 
         self.obj = obj
         self.criterion = criterion
