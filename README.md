@@ -9,9 +9,9 @@ Before proceeding **be sure you have installed the necessary dependencies** runn
 
 The project is divided into:
 - **src**: containing the source code for classes, methods and functions 
--   *AutoTree.py*: containing the class created to manage decision trees and methods.
--   *AutoEnsemble.py*: containing the class created to manage decision tree ensemble and methods.
--   *utils.py*: containing the support function used in the analysis.
+-   _*AutoTree.py*: containing the class created to manage decision trees and methods.
+-   _*AutoEnsemble.py*: containing the class created to manage decision tree ensemble and methods.
+-   _*utils.py*: containing the support function used in the analysis.
 - _BostonHousing.ipynb_: containing the notebook for the analysis.
 - _requirements.txt_: self explicative.
 - _Boston.csv_: data used for the comparison.
