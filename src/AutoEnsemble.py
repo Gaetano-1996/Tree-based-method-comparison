@@ -1,7 +1,7 @@
 from src.utils import *
 # Classe AutoEnsemble ########################################################################################################################################################
 class AutoEnsemble:
-   """
+    """
     Class that implements an ensemble of regression models.
     Methods can be of three types: bagging, random forest, and boosting.
     Methods are implemented using the sklearn library.
@@ -312,7 +312,7 @@ class AutoEnsemble:
                     random_state=0,
                     verbose=0,
                     n_jobs=-1):
-       """
+        """
         Function that implements the search for the optimal hyperparameters for the given model
         via cross-validation over a list of values associated with them.
 
