@@ -12,4 +12,5 @@ The code is divided into:
 - **AutoEnsemble.py**: containing the class created to manage decision tree ensemble and methods.
 - **prjFunc.py**: containing the support function used in the analysis.
 - _BostonHousing.ipynb_: containing the notebook for the analysis.
+- _requirements.txt_: self explicative
  
