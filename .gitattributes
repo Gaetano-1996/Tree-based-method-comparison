@@ -1,4 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-# not read jupyter notebook as text
-*.ipynb diff=ipynb
+# not read jupyter notebook in language statistics
+*.ipynb linguist-detectable=false
+
