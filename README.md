@@ -14,8 +14,8 @@ The project is divided into:
    - *AutoTree.py*: containing the class created to manage decision trees and methods.
    - *AutoEnsemble.py*: containing the class created to manage decision tree ensemble and methods.
    - *utils.py*: containing the support function used in the analysis.
-- _BostonHousing.ipynb_: containing the notebook for the analysis.
-- _requirements.txt_: self explicative.
+- _BostonHousing.ipynb_: containing the notebook for the analysis (basically you can clone the repo, and run this notebook to see the results yourself)
+- _requirements.txt_: self-explicative.
 - _Boston.csv_: data used for the comparison.
 - **main.py**
  
