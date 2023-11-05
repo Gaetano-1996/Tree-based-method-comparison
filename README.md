@@ -24,3 +24,6 @@ The project is divided into:
 To run the project:
 - From Notebook: modify the path variable in the second cell of the notebook with the path of the Boston.csv file and run all cells.
 - From main.py: modify the path variable in the main.py file with the path of the Boston.csv file and run the file.
+
+## Next steps
+- [ ] Translate the report in english
